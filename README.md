@@ -1,6 +1,6 @@
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&layout=compact&theme=shadow_red"/>
-  <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=ario1281&theme=shadow_red&column=5"/>
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&layout=compact&theme=shadow_red"/>
+  <img alt="trophy" height="170px" src="https://github-profile-trophy.vercel.app/?username=ario1281&theme=shadow_red&column=5"/>
 </p>
 
 ## Teck Stack
