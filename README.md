@@ -1,7 +1,7 @@
 ## Teck Stack
 ![](https://skillicons.dev/icons?i=angular,c,cpp,cs,css,git,github,html,js,less,mysql,php,react,spring,unity,unreal,visualstudio,vscode,vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&layout=compact&theme=shadow_red)
 
 
 
