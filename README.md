@@ -1,10 +1,19 @@
-<p align="left">
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&layout=compact&theme=shadow_red"/>
-  <img alt="trophy" height="170px" src="https://github-profile-trophy.vercel.app/?username=ario1281&theme=shadow_red&column=5"/>
+##GitHub Status
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=shadow_red&show_icons=true&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ario1281&theme=shadow_red&show_icons=ture" />
 </p>
 
-## Teck Stack
-![](https://skillicons.dev/icons?i=angular,c,cpp,cs,css,git,github,html,js,less,mysql,php,react,spring,unity,unreal,visualstudio,vscode,vue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ario1281&theme=shadow_red&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## Skills
+### Programming Languages
+![](https://skillicons.dev/icons?i=c,cpp,cs,css,html,js,less,php)
+### FrameWorks and Library
+![](https://skillicons.dev/icons?i=angular,react,spring,unity,unreal)
+### Tools
+![](https://skillicons.dev/icons?i=git,github,mysql,visualstudio,vscode)
 
 
 <!--
