@@ -11,11 +11,11 @@
 
 ## Skills
 ### Programming Languages
-![](https://skillicons.dev/icons?i=c,cpp,cs,css,html,js,less,php)
+![](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,less,php)
 ### FrameWorks and Library
-![](https://skillicons.dev/icons?i=angular,react,spring,unity,unreal)
+![](https://skillicons.dev/icons?i=angular,nodejs,react,spring,unity,unreal,vue)
 ### Tools
-![](https://skillicons.dev/icons?i=git,github,mysql,visualstudio,vscode)
+![](https://skillicons.dev/icons?i=git,github,md,mysql,visualstudio,vscode)
 
 
 <!--
