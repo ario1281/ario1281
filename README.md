@@ -1,8 +1,10 @@
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&layout=compact&theme=shadow_red"/>
+  <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=ario1281&theme=shadow_red&column=5"/>
+</p>
+
 ## Teck Stack
 ![](https://skillicons.dev/icons?i=angular,c,cpp,cs,css,git,github,html,js,less,mysql,php,react,spring,unity,unreal,visualstudio,vscode,vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&layout=compact&theme=shadow_red)
-
 
 
 <!--
