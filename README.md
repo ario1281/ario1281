@@ -1,7 +1,9 @@
 ## GitHub Status
 <p align="left"> 
-  <img alt="Top Langs" height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=shadow_red&show_icons=true&layout=compact" />
-  <img alt="github stats" height="156px" src="https://github-readme-stats.vercel.app/api?username=ario1281&theme=shadow_red&show_icons=ture" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=shadow_red&show_icons=true&layout=compact" />
+    <img alt="github stats" height="156px" src="https://github-readme-stats.vercel.app/api?username=ario1281&theme=shadow_red&show_icons=ture" />
+  </a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ario1281&theme=onestar&column=7)](https://github.com/ryo-ma/github-profile-trophy)
