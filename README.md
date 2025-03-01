@@ -1,5 +1,9 @@
-### Skils
-![](https://skillicons.dev/icons?i=angular,c,cpp,cs,css,git,html,js,less,php,react,spring,unity,unreal,vue)
+## Teck Stack
+![](https://skillicons.dev/icons?i=angular,c,cpp,cs,css,git,github,html,js,less,mysql,php,react,spring,unity,unreal,visualstudio,vscode,vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&layout=compact)
+
+
 
 <!--
 **ario1281/ario1281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
