@@ -1,6 +1,6 @@
 ## GitHub Status
 <p align="left"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration:none;">
     <img alt="Top Langs" height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=dark&layout=compact&show_icons=true" />
     <img alt="github stats" height="156px" src="https://github-readme-stats.vercel.app/api?username=ario1281&theme=dark&show_icons=ture" />
   </a>
@@ -11,12 +11,11 @@
 
 ## Skills
 ### Programming Languages
-![](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,less,php)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,less,php)](https://github.com/tandpfun/skill-icons)
 ### FrameWorks and Library
-![](https://skillicons.dev/icons?i=angular,nodejs,react,spring,unity,unreal,vue)
+[![](https://skillicons.dev/icons?i=angular,nodejs,react,spring,unity,unreal,vue)](https://github.com/tandpfun/skill-icons)
 ### Tools
-![](https://skillicons.dev/icons?i=git,github,md,mysql,visualstudio,vscode)
-
+[![](https://skillicons.dev/icons?i=git,github,md,mysql,visualstudio,vscode)](https://github.com/tandpfun/skill-icons)
 
 <!--
 **ario1281/ario1281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
