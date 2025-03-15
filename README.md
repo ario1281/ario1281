@@ -1,8 +1,8 @@
 ## GitHub Status
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=dark&layout=compact&show_icons=true" />
-    <img alt="github stats" height="156px" src="https://github-readme-stats.vercel.app/api?username=ario1281&theme=dark&show_icons=ture" />
+    <img alt="Top Langs" height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=dark&layout=compact&counte_private=true&show_icons=true" />
+    <img alt="github stats" height="156px" src="https://github-readme-stats.vercel.app/api?username=ario1281&theme=dark&counte_private=true&show_icons=ture" />
   </a>
 </p>
 
