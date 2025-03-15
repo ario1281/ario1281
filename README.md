@@ -17,7 +17,7 @@
 ### Tools
 [![](https://skillicons.dev/icons?i=git,github,md,mysql,visualstudio,vscode)](https://github.com/tandpfun/skill-icons)
 ### OS
-[![](https://skillicons.dev/icons?i=linux,windows)](https://github.com/tandpfun/skill-icons)
+[![](https://skillicons.dev/icons?i=windows)](https://github.com/tandpfun/skill-icons)
 
 <!--
 **ario1281/ario1281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
