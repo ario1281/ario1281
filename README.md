@@ -1,35 +1,16 @@
 ## GitHub Status
-<p align="left"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=dark&layout=compact&counte_private=true&show_icons=true" />
-    <img alt="github stats" height="156px" src="https://github-readme-stats.vercel.app/api?username=ario1281&theme=dark&counte_private=true&show_icons=ture" />
-  </a>
-</p>
+|*My Status*|*My Trophies*|
+|:---:|:---:|
+|[![ario1281's github stats](https://github-readme-stats.vercel.app/api?username=ario1281&theme=dark&counte_private=true&show_icons=ture&card_width=480)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=dark&layout=compact&counte_private=true&show_icons=true&card_width=480)](https://github.com/anuraghazra/github-readme-stats)|[![trophy](https://github-profile-trophy.vercel.app/?username=ario1281&theme=onestar&margin-w=20&margin-h=20&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)|
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ario1281&theme=onestar&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+---
 
 ## Skills
 ### Programming Languages
 [![](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,less,php)](https://github.com/tandpfun/skill-icons)
 ### FrameWorks and Library
-[![](https://skillicons.dev/icons?i=angular,nodejs,react,spring,unity,vue)](https://github.com/tandpfun/skill-icons)
+[![](https://skillicons.dev/icons?i=angular,jquery,nodejs,react,spring,unity,vue)](https://github.com/tandpfun/skill-icons)
 ### Tools
-[![](https://skillicons.dev/icons?i=git,github,md,mysql,visualstudio,vscode)](https://github.com/tandpfun/skill-icons)
+[![](https://skillicons.dev/icons?i=eclipse,git,github,md,mysql,visualstudio,vscode)](https://github.com/tandpfun/skill-icons)
 ### OS
 [![](https://skillicons.dev/icons?i=windows)](https://github.com/tandpfun/skill-icons)
-
-<!--
-**ario1281/ario1281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
