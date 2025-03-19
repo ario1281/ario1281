@@ -1,7 +1,7 @@
 ## GitHub Status
 |*My Status*|*My Trophies*|
 |:---:|:---:|
-|[![ario1281's github stats](https://github-readme-stats.vercel.app/api?username=ario1281&theme=dark&counte_private=true&show_icons=ture&card_width=480)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=dark&layout=compact&counte_private=true&show_icons=true&card_width=480)](https://github.com/anuraghazra/github-readme-stats)|[![trophy](https://github-profile-trophy.vercel.app/?username=ario1281&theme=onestar&margin-w=20&margin-h=20&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)|
+|[![ario1281's github stats](https://github-readme-stats.vercel.app/api?username=ario1281&theme=dark&include_all_commits=true&show_icons=ture&card_width=480)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=dark&layout=compact&count_private=true&show_icons=true&card_width=480)](https://github.com/anuraghazra/github-readme-stats)|[![trophy](https://github-profile-trophy.vercel.app/?username=ario1281&theme=onestar&margin-w=20&margin-h=20&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)|
 
 ## Skills
 ### Programming Languages
