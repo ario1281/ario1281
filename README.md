@@ -1,5 +1,5 @@
 <div align=center>
-  <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi%20Bros!!%20Welcome!!&l1=e99b9b&l2=c44040&l3=a13030&l4=6e2121"></a>
+  <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi%20bros!!%20Welcome%20to%20Profile.&l1=e99b9b&l2=c44040&l3=a13030&l4=6e2121"></a>
 </div>
 
 ## Skills
