@@ -18,27 +18,14 @@
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ario1281&theme=onestar&margin-w=10&margin-h=10&row=3&column=4" /></a>
     </td>
   </tr>
-  <tr>
-    <th colspan="2"> Skills </th>
-  </tr>
-  <tr>
-    <td colspan="2" >
-      <div  style="color: red;">
-        <h3> Programming Languages </h3>
-        <a href="https://github.com/tandpfun/skill-icons"><img alt="Prog Langs" src="https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,less,php" /></a>
-      </div>
-      <div>
-        <h3> FrameWorks and Library </h3>
-        <a href="https://github.com/tandpfun/skill-icons"><img alt="FWs and Lib" src="https://skillicons.dev/icons?i=angular,jquery,nodejs,react,spring,unity,vue" /></a>
-      </div>
-      <div>
-        <h3> Tools </h3>
-        <a href="https://github.com/tandpfun/skill-icons"><img alt="FWs and Lib" src="https://skillicons.dev/icons?i=eclipse,git,github,md,mysql,visualstudio,vscode" /></a>
-      </div>
-      <div>
-        <h3> OS </h3>
-        <a href="https://github.com/tandpfun/skill-icons"><img alt="OS" src="https://skillicons.dev/icons?i=windows" /></a>
-      </div>
-    </td>
-  </tr>
 </table>
+
+### Skills
+ #### Programming Languages
+ [![](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,less,php)](https://github.com/tandpfun/skill-icons)
+ #### FrameWorks and Library
+ [![](https://skillicons.dev/icons?i=angular,jquery,nodejs,react,spring,unity,vue)](https://github.com/tandpfun/skill-icons)
+ #### Tools
+ [![](https://skillicons.dev/icons?i=eclipse,git,github,md,mysql,visualstudio,vscode)](https://github.com/tandpfun/skill-icons)
+ #### OS
+ [![](https://skillicons.dev/icons?i=windows)](https://github.com/tandpfun/skill-icons)
