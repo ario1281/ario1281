@@ -30,9 +30,9 @@
  #### FrameWorks and Library
  [![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=angular,figma,jquery,nodejs,react,spring,unity,vue)](https://github.com/LelouchFR/skill-icons)
  #### Tools
- [![](https://go-skill-icons.vercel.app/api/icons?theme=dark?i=eclipse,excel,git,github,md,mysql,visualstudio,vscode)](https://github.com/LelouchFR/skill-icons)
+ [![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=eclipse,excel,git,github,md,mysql,visualstudio,vscode)](https://github.com/LelouchFR/skill-icons)
  #### OS
- [![](https://go-skill-icons.vercel.app/api/icons?theme=dark?i=windows)](https://github.com/LelouchFR/skill-icons)
+ [![](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=windows)](https://github.com/LelouchFR/skill-icons)
 
 
 
