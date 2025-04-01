@@ -1,8 +1,8 @@
-<div align=center>
-  <a href="https://github.com/kawarimidoll/typograssy"><img alt="Typograssy" src="https://typograssy.deno.dev/api?text=Hi%20bros!!%20Welcome%20to%20profile.&l0=f0ebeb&l1=e99b9b&l2=c44040&l3=a13030&l4=6e2121&speed=150&comment=ario1281's%20Profile.%20%E2%86%93"></a>
+<div align="center">
+  <a href="https://github.com/kawarimidoll/typograssy"><img alt="Typograssy" src="https://typograssy.deno.dev/api?text=Hi%20bros!%20Welcome%20to%20Profile.&l0=f0ebeb&l1=e99b9b&l2=c44040&l3=a13030&l4=6e2121&speed=150&comment=%E2%86%93%20ario1281's%20Profole%20%E2%86%93"></a>
 </div>
 
-<div align=center>
+<div align="center">
   <a href="https://github.com/FN-FAL113/github-readme-steam-card?tab=readme-ov-file"><img alt="Steam" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964043829&show_in_game_bg=true"/></a>
 </div>
 
@@ -26,10 +26,13 @@
 
 ### Skills
  #### Programming Languages
- [![](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,less,php)](https://github.com/tandpfun/skill-icons)
+ [![](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,css,html,java,js,json,less,php)](https://github.com/LelouchFR/skill-icons)
  #### FrameWorks and Library
- [![](https://skillicons.dev/icons?i=angular,jquery,nodejs,react,spring,unity,vue)](https://github.com/tandpfun/skill-icons)
+ [![](https://go-skill-icons.vercel.app/api/icons?i=angular,figma,jquery,nodejs,react,spring,unity,vue)](https://github.com/LelouchFR/skill-icons)
  #### Tools
- [![](https://skillicons.dev/icons?i=eclipse,git,github,md,mysql,visualstudio,vscode)](https://github.com/tandpfun/skill-icons)
+ [![](https://go-skill-icons.vercel.app/api/icons??i=eclipse,excel,git,github,md,mysql,visualstudio,vscode)](https://github.com/LelouchFR/skill-icons)
  #### OS
- [![](https://skillicons.dev/icons?i=windows)](https://github.com/tandpfun/skill-icons)
+ [![](https://go-skill-icons.vercel.app/api/icons??i=windows)](https://github.com/LelouchFR/skill-icons)
+
+
+
