@@ -2,6 +2,10 @@
   <a href="https://github.com/kawarimidoll/typograssy"><img alt="Typograssy" src="https://typograssy.deno.dev/api?text=Hi%20bros!!%20Welcome%20to%20profile.&l0=f0ebeb&l1=e99b9b&l2=c44040&l3=a13030&l4=6e2121&speed=150&comment=ario1281's%20Profile.%20%E2%86%93"></a>
 </div>
 
+<div align=center>
+  <a href="https://github.com/kawarimidoll/typograssy"><img alt="Steam" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964043829&show_in_game_bg=true&show_recent_game_bg=false"/></a>
+</div>
+
 ## GitHub Profile Helpers
 <table>
   <tr>
