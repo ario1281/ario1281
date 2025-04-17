@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share">
+   <img alt="Static Badge" src="https://img.shields.io/badge/list-amazon-yellow?style=flat&logo=amazon&logoColor=black">
+ </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/FN-FAL113/github-readme-steam-card?tab=readme-ov-file"><img alt="Steam" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964043829&show_in_game_bg=true"/></a>
 </div>
 
