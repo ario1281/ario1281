@@ -6,10 +6,6 @@
   <a href="https://github.com/FN-FAL113/github-readme-steam-card?tab=readme-ov-file"><img alt="Steam" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964043829&show_in_game_bg=true"/></a>
 </div>
 
-<a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ama-zon-yellow?style=flat&logo=amazon&logoColor=black">
-</a>
-
 ## GitHub Profile Helpers
 <table>
   <tr>
