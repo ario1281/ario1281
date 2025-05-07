@@ -1,15 +1,15 @@
 <div align="center">
+  <div>
   <a href="https://github.com/kawarimidoll/typograssy"><img alt="Typograssy" src="https://typograssy.deno.dev/api?text=Hi%20bros!%20Welcome%20to%20Profile.&l0=f0ebeb&l1=e99b9b&l2=c44040&l3=a13030&l4=6e2121&speed=150&comment=%E2%86%93%20ario1281's%20Profole%20%E2%86%93"></a>
-</div>
-
-<div align="center">
-  <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share">
-   <img alt="Static Badge" src="https://img.shields.io/badge/list-amazon-yellow?style=flat&logo=amazon&logoColor=black">
- </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/FN-FAL113/github-readme-steam-card?tab=readme-ov-file"><img alt="Steam" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964043829&show_in_game_bg=true"/></a>
+  </div>
+  <div>
+    <a href="https://github.com/FN-FAL113/github-readme-steam-card?tab=readme-ov-file"><img alt="Steam" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964043829&show_in_game_bg=true"/></a>
+  </div>
+  <div>
+    <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share">
+      <img alt="Static Badge" src="https://img.shields.io/badge/%20wishlist-yellow?style=flat&logo=amazon&logoColor=white&labelColor=black">
+    </a>
+  </div>
 </div>
 
 ## GitHub Profile Helpers
