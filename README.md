@@ -7,7 +7,7 @@
   </div>
   <div>
     <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share">
-      <img alt="Static Badge" src="https://img.shields.io/badge/%20wishlist-yellow?style=flat&logo=amazon&logoColor=white&labelColor=black">
+      <img alt="Static Badge" src="https://img.shields.io/badge/%20wishlist-yellow?style=plastic&logo=amazon&logoColor=white&labelColor=black">
     </a>
   </div>
 </div>
