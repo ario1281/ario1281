@@ -6,9 +6,9 @@
     <a href="https://github.com/FN-FAL113/github-readme-steam-card?tab=readme-ov-file"><img alt="Steam" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964043829&show_in_game_bg=true"/></a>
   </div>
   <div>
-    <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share">
-      <img alt="Static Badge" src="https://img.shields.io/badge/%20wishlist-yellow?style=plastic&logo=amazon&logoColor=white&labelColor=black">
-    </a>
+    <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share"><img alt="Amazon Badge" src="https://img.shields.io/badge/%20wishlist-yellow?style=plastic&logo=amazon&logoColor=white&labelColor=black"></a>
+    <a href="https://x.com/ario_1281"><img alt="X Main Badge" src="https://img.shields.io/badge/main-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
+    <a href="https://x.com/ario_SeaurJiro"><img alt="X Sub Badge" src="https://img.shields.io/badge/sub-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
   </div>
 </div>
 
