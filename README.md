@@ -34,7 +34,7 @@
 ### Skills
  #### Programming Languages
  [![](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,less,php)](https://github.com/tandpfun/skill-icons)
- #### FrameWorks and Library
+ #### FrameWorks and Libraries
  [![](https://skillicons.dev/icons?i=angular,jquery,nodejs,react,spring,unity,vue)](https://github.com/tandpfun/skill-icons)
  #### Tools
  [![](https://skillicons.dev/icons?i=eclipse,git,github,md,mysql,visualstudio,vscode)](https://github.com/tandpfun/skill-icons)
