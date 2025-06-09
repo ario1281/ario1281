@@ -1,15 +1,15 @@
 <div align="center">
   <div>
-  <a href="https://github.com/kawarimidoll/typograssy"><img alt="Typograssy" src="https://typograssy.deno.dev/api?text=Hi%20bros!%20Welcome%20to%20Profile.&l0=f0ebeb&l1=e99b9b&l2=c44040&l3=a13030&l4=6e2121&speed=150&comment=%E2%86%93%20ario1281's%20Profile%20%E2%86%93"></a>
+    <a href="https://github.com/kawarimidoll/typograssy"><img alt="Typograssy" src="https://typograssy.deno.dev/api?text=Hi%20bros!%20Welcome%20to%20Profile.&l0=f0ebeb&l1=e99b9b&l2=c44040&l3=a13030&l4=6e2121&speed=150&comment=%E2%86%93%20ario1281's%20Profile%20%E2%86%93"></a>
   </div>
   <div>
     <a href="https://github.com/FN-FAL113/github-readme-steam-card?tab=readme-ov-file"><img alt="Steam" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964043829&show_in_game_bg=true"/></a>
   </div>
-  <div>
-    <a href="https://www.youtube.com/@ario_1281"><img alt="YouTube Badge" src="https://img.shields.io/badge/YouTube-black?style=plastic&logo=youtube&logoColor=red&labelColor=white"></a>
-    <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share"><img alt="Amazon Badge" src="https://img.shields.io/badge/%20wishlist-yellow?style=plastic&logo=amazon&logoColor=white&labelColor=black"></a>
-    <a href="https://x.com/ario_1281"><img alt="X Main Badge" src="https://img.shields.io/badge/main-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
-    <a href="https://x.com/ario_SeaurJiro"><img alt="X Sub Badge" src="https://img.shields.io/badge/sub-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
+  <div name="badges">
+    <a href="https://www.youtube.com/@ario_1281"><img alt="youtube" src="https://img.shields.io/badge/YouTube-black?style=plastic&logo=youtube&logoColor=red&labelColor=white"></a>
+    <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share"><img alt="amazon wishlist" src="https://img.shields.io/badge/%20wishlist-yellow?style=plastic&logo=amazon&logoColor=white&labelColor=black"></a>
+    <a href="https://x.com/ario_1281"><img alt="x main-account" src="https://img.shields.io/badge/main-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
+    <a href="https://x.com/ario_SeaurJiro"><img alt="x sub-account" src="https://img.shields.io/badge/sub-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
   </div>
 </div>
 
