@@ -14,7 +14,7 @@
 </div>
 
 ## GitHub Profile Helpers
-<table>
+<table name="profile">
   <tr>
     <th> :iphone:My Status:iphone: </th>
     <th> :trophy:My Trophies:trophy: </th>
