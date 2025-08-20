@@ -6,10 +6,14 @@
     <a href="https://github.com/FN-FAL113/github-readme-steam-card?tab=readme-ov-file"><img alt="Steam" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198964043829&show_in_game_bg=true"/></a>
   </div>
   <div name="badges">
-    <a href="https://www.youtube.com/@ario_1281"><img alt="youtube" src="https://img.shields.io/badge/YouTube-black?style=plastic&logo=youtube&logoColor=red&labelColor=white"></a>
-    <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share"><img alt="amazon wishlist" src="https://img.shields.io/badge/%20wishlist-yellow?style=plastic&logo=amazon&logoColor=white&labelColor=black"></a>
-    <a href="https://x.com/ario_1281"><img alt="x main-account" src="https://img.shields.io/badge/main-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
-    <a href="https://x.com/ario_SeaurJiro"><img alt="x sub-account" src="https://img.shields.io/badge/sub-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
+    <div>
+      <a href="https://www.youtube.com/@ario_1281"><img alt="youtube" src="https://img.shields.io/badge/YouTube-black?style=plastic&logo=youtube&logoColor=red&labelColor=white"></a>
+      <a href="https://x.com/ario_1281"><img alt="x main-account" src="https://img.shields.io/badge/main-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
+      <a href="https://x.com/ario_SeaurJiro"><img alt="x sub-account" src="https://img.shields.io/badge/sub-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
+    </div>
+    <div>
+      <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share"><img alt="amazon wishlist" src="https://img.shields.io/badge/amazon-wishlist-yellow?style=plastic&logoColor=white&labelColor=black"></a>
+    </div>
   </div>
 </div>
 
