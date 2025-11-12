@@ -12,8 +12,8 @@
       <a href="https://x.com/ario_SeaurJiro"><img alt="x sub-account" src="https://img.shields.io/badge/sub-black?style=plastic&logo=x&logoColor=white&labelColor=black"></a>
     </div>
     <div>
-      <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share"><img alt="amazon wishlist" src="https://img.shields.io/badge/amz-wishlist-yellow?style=plastic&logo=amazon&logoColor=white&labelColor=black"></a>
-      <a href="https://store.steampowered.com/wishlist/id/ario_1281/?sort=discount"><img alt="steam wishlist" src="https://img.shields.io/badge/wishlist-%23000000.svg?style=plastic&logo=steam&logoColor=white"></a>
+      <a href="https://www.amazon.jp/hz/wishlist/ls/SDLMNMP1HYAX?ref_=wl_share"><img alt="amazon wishlist" src="https://img.shields.io/badge/amazon-WL-yellow?style=plastic&logo=amazon&logoColor=white&labelColor=black"></a>
+      <a href="https://store.steampowered.com/wishlist/id/ario_1281/?sort=discount"><img alt="steam wishlist" src="https://img.shields.io/badge/steam-WL-%23000000.svg?style=plastic&logo=steam&logoColor=white"></a>
     </div>
   </div>
 </div>
