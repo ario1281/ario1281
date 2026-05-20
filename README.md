@@ -30,7 +30,8 @@
       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ario1281&theme=dark&count_private=true&include_all_commits=true&show_icons=ture&card_width=480" /></a><br>
       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ario1281&theme=dark&layout=compact&show_icons=true&card_width=480" /></a><br>
       -->
-      <img src="./github-metrics.svg" />
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="./github-stats.svg" /></a><br>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs Card" src="./github-top-langs.svg" /></a><br>
       <a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ario1281&theme=dark&short_numbers=true&mode=weekly&card_width=480" /></a>
     </td>
     <td>
