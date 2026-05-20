@@ -40,6 +40,6 @@ jobs:
           plugin_languages_indepth: yes
 
       - name: Commit generated cards
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update GitHub cards
